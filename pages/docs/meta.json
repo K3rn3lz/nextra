@@ -1,6 +1,9 @@
 {
-  "get-started": "Get Started",
-  "structure": "Structure",
-  "built-in-components": "Built-In Components",
-  "anchors": "Anchor Links"
+  "liquidity": "Liquidity Explained",
+  "wanmask":"WanMask Guide",
+  "Wanfarmtutorial":"WanFarm Guide",
+  "wanbridge":"WanBridge guide",
+  "btccrosschain":"BTC Crosschain Guide",
+  "guideEOS":"EOS Crosschain Guide",
+  "wanlendtutorial":"WanLend Guide"
 }
